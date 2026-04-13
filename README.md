@@ -141,9 +141,3 @@ Feel free to fork the repo and submit pull requests.
 This project is licensed under the MIT License.
 
 ---
-
-## 👨‍💻 Author
-
-Developed by **Your Name**
-
----
