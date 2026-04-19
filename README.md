@@ -126,7 +126,6 @@ docker run -d -p 8000:8000 --env-file .env rag-app
 * Add UI (Streamlit / React)
 * Improve retrieval accuracy
 * Add authentication
-* Deploy to cloud (AWS / GCP / Azure)
 
 ---
 
